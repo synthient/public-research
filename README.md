@@ -12,4 +12,5 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `10/21/2025` - [The Stealer Log Ecosystem: Processing Millions of Credentials a Day](https://synthient.com/blog/the-stealer-log-ecosystem)
 
 ## Other
+ - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
  - `10/29/2025` - [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
