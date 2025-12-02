@@ -10,6 +10,7 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `09/09/2025` - [Announcing the Synthient IP Risk Database](https://synthient.com/blog/synthient-ip-risk-database)
  - `09/30/2025` - [GhostSocks: From Initial Access to Residential Proxy](https://synthient.com/blog/ghostsocks-from-initial-access-to-residential-proxy)
  - `10/21/2025` - [The Stealer Log Ecosystem: Processing Millions of Credentials a Day](https://synthient.com/blog/the-stealer-log-ecosystem)
+ - `12/02/2025` - [IPCola: A Tangled Mess](https://synthient.com/blog/ipcola-a-tangled-mess)
 
 ## Other
  - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
