@@ -3,7 +3,7 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
 
 ## Talks
  - `10/25/2024` - [Anti-Fraud W3 Community Group - An Emprical Analysis of Residential Proxies](https://docs.google.com/presentation/d/1-sVE_DbnCkT_Ye-FjAAn05Lndq6UakckFVSmEuZInFQ/edit?usp=sharing)
- - `03/27/2025` -  [Anti-Fraud W3 Community Group - Mitigating Fingerprint Impersonation](https://docs.google.com/presentation/d/1uVFVjGwHhX64Uh63GRhSuHQFdTlfS_Vi7OaqO5Pp-Xw/edit?usp=sharing)
+ - `03/27/2025` - [Anti-Fraud W3 Community Group - Mitigating Fingerprint Impersonation](https://docs.google.com/presentation/d/1uVFVjGwHhX64Uh63GRhSuHQFdTlfS_Vi7OaqO5Pp-Xw/edit?usp=sharing)
  - `10/23/2025` - [TLP:RED] Anti-Fraud W3 Community Group - Residential Proxy Landscape 2025
 
 ## Articles
@@ -11,7 +11,9 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `09/30/2025` - [GhostSocks: From Initial Access to Residential Proxy](https://synthient.com/blog/ghostsocks-from-initial-access-to-residential-proxy)
  - `10/21/2025` - [The Stealer Log Ecosystem: Processing Millions of Credentials a Day](https://synthient.com/blog/the-stealer-log-ecosystem)
  - `12/02/2025` - [IPCola: A Tangled Mess](https://synthient.com/blog/ipcola-a-tangled-mess)
+ - `01/02/2026` - [A Broken System Fueling Botnets](https://synthient.com/blog/a-broken-system-fueling-botnets)
 
 ## Other
  - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
  - `10/29/2025` - [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
+ - `01/02/2026` - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
