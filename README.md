@@ -12,6 +12,7 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `10/21/2025` - [The Stealer Log Ecosystem: Processing Millions of Credentials a Day](https://synthient.com/blog/the-stealer-log-ecosystem)
  - `12/02/2025` - [IPCola: A Tangled Mess](https://synthient.com/blog/ipcola-a-tangled-mess)
  - `01/02/2026` - [A Broken System Fueling Botnets](https://synthient.com/blog/a-broken-system-fueling-botnets)
+ - `03/30/2026` - [A Broken System Fueling Botnets](https://synthient.com/blog/proxybox-socks5systemz-lives-on)
 
 ## Other
  - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
