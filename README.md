@@ -13,6 +13,7 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `12/02/2025` - [IPCola: A Tangled Mess](https://synthient.com/blog/ipcola-a-tangled-mess)
  - `01/02/2026` - [A Broken System Fueling Botnets](https://synthient.com/blog/a-broken-system-fueling-botnets)
  - `03/30/2026` - [ProxyBox: Socks5Systemz Lives On](https://synthient.com/blog/proxybox-socks5systemz-lives-on)
+ - `06/09/2026` - [Who are the victims of residential proxies?](https://synthient.com/blog/who-are-the-victims-of-residential-proxies)
 
 ## Other
  - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
