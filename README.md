@@ -1,6 +1,63 @@
 # Public Research
 Open source research and talks on threat intelligence, fingerprinting, and fraud detection.
 
+## Popa Samples Archive
+`2026/06/popa/samples.zip` has been removed from this repository due to GitHub file size limits.
+
+Download:
+- URL: https://drive.google.com/file/d/1DEtZE0EMFoO_zZjKjZvdfLH4nkzkCh-4/view?usp=sharing
+- Password: `infected`
+
+Variant/version tree from the removed archive:
+```text
+samples/
+├── Loopop/
+│   ├── 9.0.13
+│   ├── 9.0.14
+│   ├── 9.0.23
+│   ├── 9.0.31
+│   ├── 9.0.33
+│   ├── 9.0.46
+│   ├── 9.0.47
+│   ├── 9.0.49
+│   ├── 9.0.51
+│   ├── 9.0.53
+│   ├── 9.0.54
+│   ├── 9.0.55
+│   ├── 9.0.57
+│   ├── 9.0.63
+│   ├── 9.0.68
+│   ├── 9.0.69
+│   ├── 9.0.70
+│   ├── 9.0.73
+│   ├── 9.0.76
+│   ├── 9.0.77
+│   ├── 9.0.79
+│   ├── 9.0.80
+│   ├── 9.1.73
+│   ├── 9.1.77
+│   ├── 9.1.79
+│   └── 9.2.73
+├── Moneytiser/
+│   ├── 8.1.19
+│   ├── 8.1.26
+│   ├── 12.0.5
+│   ├── 14.0.5
+│   └── 15.0.5
+└── Popa/
+	├── 2.0.16
+	├── 2.0.19
+	├── 2.0.20
+	├── 2.0.24
+	├── 2.0.26
+	├── 2.0.37
+	├── 2.0.46
+	├── 2.0.47
+	├── 2.1.33
+	├── 2.7.42
+	└── 2.7.46
+```
+
 ## Talks
  - `10/25/2024` - [Anti-Fraud W3 Community Group - An Emprical Analysis of Residential Proxies](https://docs.google.com/presentation/d/1-sVE_DbnCkT_Ye-FjAAn05Lndq6UakckFVSmEuZInFQ/edit?usp=sharing)
  - `03/27/2025` - [Anti-Fraud W3 Community Group - Mitigating Fingerprint Impersonation](https://docs.google.com/presentation/d/1uVFVjGwHhX64Uh63GRhSuHQFdTlfS_Vi7OaqO5Pp-Xw/edit?usp=sharing)
