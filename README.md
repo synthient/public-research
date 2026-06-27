@@ -4,7 +4,9 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
 ## Talks
  - `10/25/2024` - [Anti-Fraud W3 Community Group - An Emprical Analysis of Residential Proxies](https://docs.google.com/presentation/d/1-sVE_DbnCkT_Ye-FjAAn05Lndq6UakckFVSmEuZInFQ/edit?usp=sharing)
  - `03/27/2025` - [Anti-Fraud W3 Community Group - Mitigating Fingerprint Impersonation](https://docs.google.com/presentation/d/1uVFVjGwHhX64Uh63GRhSuHQFdTlfS_Vi7OaqO5Pp-Xw/edit?usp=sharing)
- - `10/23/2025` - [TLP:RED] Anti-Fraud W3 Community Group - Residential Proxy Landscape 2025
+ - `10/23/2025` - [TLP:AMBER] Anti-Fraud W3 Community Group - Residential Proxy Landscape 2025
+ - `04/07/2026` - [TLP:AMBER] M3AAWG - The Botnet Ecosystem Powering Residential Proxies 
+
 
 ## Articles
  - `09/09/2025` - [Announcing the Synthient IP Risk Database](https://synthient.com/blog/synthient-ip-risk-database)
@@ -20,3 +22,5 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `10/22/2025` - [Inside the Synthient Threat Data](https://www.troyhunt.com/inside-the-synthient-threat-data/)
  - `10/29/2025` - [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
  - `01/02/2026` - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+ - `04/07/2026` - [From DDoS to Residential Proxies: The Shifting Botnet Threat Keeping M3AAWG on High Alert](https://www.m3aawg.org/blog/DDoStoResidentialProxies)
+ - `06/18/2026` - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
