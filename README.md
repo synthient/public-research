@@ -14,7 +14,6 @@ Open source research and talks on threat intelligence, fingerprinting, and fraud
  - `01/02/2026` - [A Broken System Fueling Botnets](https://synthient.com/blog/a-broken-system-fueling-botnets)
  - `03/30/2026` - [ProxyBox: Socks5Systemz Lives On](https://synthient.com/blog/proxybox-socks5systemz-lives-on)
  - `06/09/2026` - [Who are the victims of residential proxies?](https://synthient.com/blog/who-are-the-victims-of-residential-proxies)
- - `06/09/2026` - [Who are the victims of residential proxies?](https://synthient.com/blog/who-are-the-victims-of-residential-proxies)
  - `06/18/2026` - [Popa: From Sourcing to Distribution](https://synthient.com/blog/popa-from-sourcing-to-distribution)
  - `10/01/2026` - [IPWeb: Peering From Within](https://synthient.com/blog/ipweb-peering-from-within)
  - `11/02/2026` - [The Internals of a Badbox Operation](https://synthient.com/blog/the-internals-of-a-badbox-operation)
